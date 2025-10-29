@@ -103,9 +103,3 @@ Como exercício, tente:
 
 ---
 
-## 👩‍🏫 Autor / Projeto Didático
-
-Este projeto faz parte das atividades de **aprendizado prático em Python** com foco em **consumo de APIs** e **análise de dados**, orientado pela professora [Alexsandra Campos].
-
-
-Deseja que eu personalize o final com o nome do curso (por exemplo, *Curso de Programação Python para Data Science — SENAI Ary Torres*) e o seu nome completo como instrutora? Assim posso deixar o README pronto para os alunos apenas adaptarem o nome deles.
