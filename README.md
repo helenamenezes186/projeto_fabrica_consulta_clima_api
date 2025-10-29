@@ -1,5 +1,3 @@
-Aqui está um modelo de **README.md** pronto para os alunos publicarem no GitHub, com foco em **aprendizado**, **documentação clara** e **boas práticas de versionamento** 👇
-
 ---
 
 # 🌦️ Consulta de Clima com API — Projeto de Aprendizado
